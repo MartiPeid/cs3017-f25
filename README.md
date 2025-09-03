@@ -9,3 +9,22 @@ This will now be a secod paragraph on the site
 ## This is a subsection
 
 We can add emphasis to text with *asterisks* to create italics or **bold** text or ***both***
+
+## Example quotations 
+
+> THis is a quote
+>
+> This is another
+>
+>>THis is another quote inside a quote
+
+## List of data 
++ THis is the first item
++ THis is the second item
++ This is the third item
+***************************************************************
+## THis is a number list 
+1. is the first item
+2. second item
+3. third item
+   1. this is the first
