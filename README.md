@@ -28,3 +28,8 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 2. second item
 3. third item
    1. this is the first
+
+## Links to other places 
+[Google Search](https://google.com)
+
+[Class 3](class3)
