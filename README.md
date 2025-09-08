@@ -35,3 +35,7 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 [Class 3](Class3)
 
 [subsection example](#subsection-exapmple)
+
+[About me](about.md)
+
+
