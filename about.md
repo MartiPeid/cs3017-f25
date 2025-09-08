@@ -3,15 +3,23 @@ My name is Martí, and I am from Barcelona, Spain. I spent two years in Hong Kon
 
 ## My Hobbies
 At my free time I like to play basketball, sail, listen to music and ...
-- Hobbie 1
-- Hobbie 2
-- hobbie 3
+- Basketball
+- Sailing
+- Playing the trumpet
 ## My Top 3 Favorite Foods
-1. Favourite food
-2. Favourite food
-3. Favourite food
+1. Croquetas
+2. Pasta carbonara
+3. Cannelloni
 # My Favorite Quote
-> bla bla bla 
+> “Be the change that you wish to see in the world.” 
 
-**Name** *source*
+**Mahatma Gandhi** in *1913 article in Indian Opinion*
 ## Where to find me
+
+[My Github Profile](https://github.com/MartiPeid)
+
+[GitHub pages site](https://github.com/MartiPeid/cs3017-f25)
+
+[An old rock in the desert](https://unsplash.com/es/fotos/vista-aerea-del-paisaje-urbano-qpWRtUL6NQ4)
+
+Captured by **Andrew Jephson**, shared on *Unsplash*
