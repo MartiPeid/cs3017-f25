@@ -20,6 +20,6 @@ At my free time I like to play basketball, sail, listen to music and ...
 
 [GitHub pages site](https://github.com/MartiPeid/cs3017-f25)
 
-[An old rock in the desert](https://unsplash.com/es/fotos/vista-aerea-del-paisaje-urbano-qpWRtUL6NQ4)
+![An old rock in the desert](https://images.unsplash.com/photo-1554208786-6776fa9e7df4?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Captured by **Andrew Jephson**, shared on *Unsplash*
