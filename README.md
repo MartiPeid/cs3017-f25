@@ -38,4 +38,5 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 
 [About me](about.md)
 
-
+# Example Image
+![Forest](tree.png)
